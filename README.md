@@ -1,4 +1,4 @@
-# Webpack Module Federation example
+# A Simple Example of Webpack Module Federation
 
 - `ad-library`: A remote library responsible to render ads
 - `publisher-site`: A website consumes the ad library
